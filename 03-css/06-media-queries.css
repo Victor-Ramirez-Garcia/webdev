@@ -2,5 +2,103 @@
   body {
     background: var(--green);
     color: var(--white);
+    margin: 0;
+  }
+
+  header nav {
+    background: var(--black);
+  }
+
+  header nav ul {
+    margin: 0;
+    padding: 20px 15px;
+  }
+
+  header nav ul li {
+    display: inline; /*makes list items be next to each other*/
+    list-style-type: none; /*removes bullet point*/
+    margin-right: 30px;
+  }
+
+  header nav ul li a {
+    color: inherit; /*inherit color from body*/
+    text-decoration: none; /*removes underline*/
+    font-size: x-large;
+  }
+
+  #parmesan,
+  #manchego {
+    padding: 0px 15px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 1024px) {
+  body {
+    background: var(--orange);
+    color: var(--black);
+    margin: 0;
+  }
+
+  header nav {
+    background: var(--black);
+  }
+
+  header nav ul {
+    margin: 0;
+    padding: 20px 15px;
+  }
+
+  header nav ul li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 30px;
+  }
+
+  header nav ul li a {
+    text-decoration: none;
+    font-size: x-large;
+    color: var(--white);
+  }
+
+  #parmesan,
+  #manchego {
+    padding: 0px 15px;
+  }
+}
+
+@media (max-width: 320px) {
+  body {
+    background: var(--purple);
+    color: var(--white);
+    margin: 0;
+  }
+
+  header nav {
+    background: var(--black);
+  }
+
+  header nav ul {
+    margin: 0;
+    padding: 20px 15px;
+  }
+
+  header nav ul li {
+    list-style-type: none;
+    margin-bottom: 30px;
+  }
+
+  header nav ul li + li + li {
+    margin-bottom: 0px;
+  }
+
+  header nav ul li a {
+    text-decoration: none;
+    font-size: x-large;
+    color: inherit;
+  }
+
+  #parmesan,
+  #manchego {
+    padding: 0px 15px;
   }
 }

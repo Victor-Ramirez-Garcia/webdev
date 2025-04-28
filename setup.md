@@ -19,7 +19,7 @@
 
 ### Setting up the Lab Notebook Repo (with SSH)
 
-1. Navigate to your preferred folder and clone the repo. Use any folder name for <folder-name>. 
+1. Navigate to your preferred folder and clone the repo. Use any folder name for <folder-name>.
 
 ```console
 $ git clone git@github.com:caterinasworld/webdev-lab-notebook.git <folder-name>
