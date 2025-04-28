@@ -2,7 +2,7 @@
 
 ### HTML
 
-#### 01-html Homework Reflection
+#### 01-html Notebook Reflection
 
 I was able to complete the exercises on my own. The
 exercises in this section I found to be helpful in
@@ -17,11 +17,19 @@ a bit better.
 
 ### Accessibility
 
-Enter your reflections on this section here.
+#### 02-a11y Notebook Reflection
+
+I was able to complete the exercises on my own. For this
+exercises, it wouldn't say it was helpful, but it was
+more of a refresher of the 01-html exercises. There is
+nothing for these exercises that I wish had been explained
+better. The 01-html 04-form exercise did helped me learn this
+week's topic a little better because the exercise is
+heavily based on html forms.
 
 ### CSS
 
-#### 03-css Homework Reflection
+#### 03-css Notebook Reflection
 
 For most of the exercises, I was able to complete the
 exercises on my own, but I did use the video solution
