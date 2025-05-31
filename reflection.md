@@ -73,3 +73,13 @@ event listeners to HTML elements and for showcasing how functional javascript
 works. I don't have anything I wish that had been explained better. The exercises
 here showcased the main uses of javascript. There were no exercises that might
 have helped me learn this week's topic better.
+
+### JQUERY
+
+For the jquery exercises, I was able to complete them on my own. I find the
+exercises very helpful in presenting the differences in the lines of code
+written between javascript and jquery. The second exercise was particularly
+helpful in that it was very easy to create new elements, add styling to those
+elements, and append them to an element. For me, there is nothing that I wish
+had been explained better. The jquery slides and references helped me figure
+out the functions to use.
